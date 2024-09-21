@@ -28,7 +28,7 @@ nav {
     align-items: center;
 }
 
-.sign-in-btn {
+.sign_in {
     font-size: 14px;
     color: #1a73e8;
     text-decoration: none;
@@ -58,7 +58,7 @@ nav {
     align-items: center;
 }
 
-.search-bar {
+.search_bar {
     width: 500px;
     padding: 10px;
     font-size: 16px;
@@ -101,11 +101,11 @@ footer {
     box-shadow: 0 -1px 6px rgba(0, 0, 0, 0.1);
 }
 
-.footer-left {
+.l_ftr {
     text-align: left;
 }
 
-.footer-right {
+.r_ftr {
     text-align: right;
 }
 
